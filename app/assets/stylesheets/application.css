@@ -13,3 +13,19 @@
  *= require_tree .
  *= require_self
  */
+
+ .main{
+  max-width:600px;
+  margin:auto;
+  margin-top:50px;
+  font-size:16pt;
+ }
+
+ .blockquote{
+  background-color: whitesmoke;
+  border-radius:8px;
+  font-size:16pt;
+ }
+
+/* @import "font-awesome-sprockets";
+@import "font-awesome"; */
